@@ -1,2 +1,2 @@
-# Atividades-Generation
-Atividades desenvolvidas durante o programa Generation.
+# Atividades Back-end Generation
+Atividades de back-end desenvolvidas durante o programa Generation.
